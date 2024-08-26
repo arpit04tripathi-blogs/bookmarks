@@ -1,7 +1,7 @@
 services:
   server:
     image: jekyll/jekyll:4.2.2
-    container_name: jekyll-template-src
+    container_name: bookmarks
     environment:
       MY_ENV_VAR_DUMMY: 'service_named_server'
     volumes:

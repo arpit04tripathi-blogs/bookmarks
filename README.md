@@ -1,4 +1,4 @@
-# jekyll-template-src
+# bookamrks-src
 
 This repo is a template to create more repos for jekyll based repo.
 
