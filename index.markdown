@@ -11,5 +11,3 @@ layout: page
 - [UK Bookmarks](bm_uk)
 - [Poems](poems)
 - [Short Moral Stories](moral-short-stories)
-
-List of posts based on home layout [here](posts)

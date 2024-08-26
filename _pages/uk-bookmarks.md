@@ -5,7 +5,7 @@ permalink: /bm_uk
 ---
 
 - TOC
-  {:toc}
+{:toc}
 
 ---
 

@@ -5,7 +5,7 @@ permalink: /todo
 ---
 
 - TOC
-  {:toc}
+{:toc}
 
 <hr><br>
 
