@@ -40,5 +40,7 @@ exclude:
 #   - vendor/ruby/
 
 collections:
+  navbar:
+    output: true
   pages:
     output: true
