@@ -1,18 +1,25 @@
-# YAML syntax : 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# YAML syntax : https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings : {{ site.title }}, {{ site.email }}, and so on.
 
+# Site settings : {{ site.title }}, {{ site.email }}, and so on.
 title: Bookmarks
-# email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Bookmarks
 baseurl: "/bookmarks" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Build settings
-theme: minima
+# Build settings ===================
+
+# For gh-pages default supported theme
+# theme: minima
+# theme: jekyll-theme-leaf
+
+# For custom themes
+remote_theme: https://github.com/supunkavinda/jekyll-theme-leaf
+
+# social icons
+github_username: arpit04tripathi
+
 plugins:
   - jekyll-feed
 
@@ -31,8 +38,8 @@ exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
+  - Gemfile
+  - Gemfile.lock
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
