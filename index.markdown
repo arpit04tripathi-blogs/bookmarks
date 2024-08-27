@@ -5,8 +5,6 @@
 layout: page
 ---
 
-{%- assign page_paths = site.header_pages | default: default_paths -%}
-
 - [Quotes](quotes)
 - [To Do List](todo)
 - [UK Bookmarks](bm_uk)
