@@ -1,16 +1,14 @@
 ---
 layout: page
 title: Stories
-permalink: /moral-short-stories
+permalink: /daily/moral-short-stories
 ---
-
+**Table of contents**
 - TOC
 {:toc}
 
-<br>
-
 ---
-<br>
+
   
 # Duck on a Pond!
 Have you ever seen a duck swimming in a pond? It appears so calm - almost tranquil! But do you know that underneath the surface, it is paddling away crazily at a speed of more than 50 miles per hour! That’s how it swims.
@@ -19,10 +17,7 @@ You gotta be just like a duck on a pond!
 On the surface, you must be calm… very very calm… But underneath, you have to paddle away like crazy…
 That’s the mantra of being successful in life - Duck on a Pond!
 
-<br>
-
 ---
-<br>
 
 # A person who thinks too much of the alternatives
 
@@ -38,10 +33,7 @@ an another group might be under the impression that this guy doesn't know anythi
 
 but the people I am talking about, are the ones who trust me fully and have devoted themselves to me. They hear me out before being judgemental, I am not saying I am always right but I am saying that they're hearing to what I say and that is the key. A person who thinks too much of the alternatives rather than focusing on the current path seldom finds that perfect alternative". 
 
-<br>
-
 ---
-<br>
 
 # The Abundance Principle
 
@@ -83,8 +75,5 @@ Water in this story represents the Good things in Life
 
 Give life some Water to Work with, and it will RETURN far more than you put in........!!
 
-<br>
 
 ---
-<br>
-

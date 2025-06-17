@@ -5,9 +5,16 @@
 layout: page
 ---
 
-- [Quotes](quotes)
+- Daily
+  - [Quotes](daily/quotes)
+  - [Poems](daily/poems)
+  - [Short Moral Stories](daily/moral-short-stories)
+- Bookmarks
+  - [UK Bookmarks](bm/uk)
+  - [IND Bookmarks](bm/india)
+- Career
+  - [career Sites](career)
+  - [discussion](career/discussion)
 - [To Do List](todo)
-- [UK Bookmarks](bm_uk)
-- [Poems](poems)
-- [Short Moral Stories](moral-short-stories)
 - [Video Library](video-library)
+- Draw - [excalidraw](https://excalidraw.com/){:target="_blank"}

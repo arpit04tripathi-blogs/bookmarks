@@ -62,3 +62,6 @@ permalink: /references
 [tania rascia]: https://www.taniarascia.com
 [yuya uzu]: https://uzu.works
 [channel]: https://www.youtube.com/channel/UCtjFqAKM4ve325kLmM0l-ow
+
+
+- markdown - [extended syntax](https://www.markdownguide.org/extended-syntax/#:~:text=To%20strikethrough%20words%2C%20use%20two,before%20and%20after%20the%20words.){:target="_blank"}
