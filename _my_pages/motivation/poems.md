@@ -1,16 +1,13 @@
 ---
 layout: page
 title: Poems
-permalink: /poems
+permalink: /daily/poems
 ---
-
+**Table of contents**
 - TOC
 {:toc}
 
-<br>
-
 ---
-<br>
 
 # सफ़र में धूप / निदा फ़ाज़ली
 ```

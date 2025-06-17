@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quotes
-permalink: /quotes
+permalink: /daily/quotes
 ---
 
 > Don’t be fooled by the calendar, There are only as many days in the year as you make use of.  
