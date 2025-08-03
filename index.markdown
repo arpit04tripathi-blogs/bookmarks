@@ -16,5 +16,4 @@ layout: page
   - [career Sites](career)
   - [discussion](career/discussion)
 - [To Do List](todo)
-- [Video Library](video-library)
 - Draw - [excalidraw](https://excalidraw.com/){:target="_blank"}
