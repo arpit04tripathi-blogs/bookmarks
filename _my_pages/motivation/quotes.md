@@ -14,6 +14,8 @@ And each must build, ere time has flown,
 a stumbling block or stepping-stone.
 ```
 
+![image](https://i.pinimg.com/736x/78/35/31/783531816a4a3ec866889d2df612907d.jpg)
+
 - Do the most important thing first in the morning.
 - Practice Daily Routine - Schedule gives you freedom and maintains structure.
 - Read daily.

@@ -16,4 +16,6 @@ layout: page
   - [career Sites](career)
   - [discussion](career/discussion)
 - [To Do List](todo)
-- Draw - [excalidraw](https://excalidraw.com/){:target="_blank"}
+- Try themes
+  - [try-theme-leaf](/try-theme-leaf)
+  - [try-theme-bulma](/try-theme-bulma)

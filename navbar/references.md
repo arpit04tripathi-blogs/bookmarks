@@ -4,11 +4,12 @@ title: References
 permalink: /references
 ---
 
-**Blogs to follow**
-- [12 Factor App](https://12factor.net){:target="\_blank"}
-- [Microsoft Documentation](https://docs.microsoft.com/en-us/azure/architecture/guide/){:target="\_blank"}
-- [microservices.io](https://microservices.io/){:target="\_blank"}
-- [baeldung](https://www.baeldung.com/){:target="\_blank"}
+**Blogs to follow** - [12 Factor App]{:target="_blank"}, [Microsoft Documentation]{:target="_blank"}, [microservices.io]{:target="_blank"}, [baeldung]{:target="_blank"}
+
+[12 Factor App]: https://12factor.net
+[Microsoft Documentation]: https://docs.microsoft.com/en-us/azure/architecture/guide/
+[microservices.io]: https://microservices.io/
+[baeldung]: https://www.baeldung.com/
 
 **Jekyll** - [official website](https://jekyllrb.com){:target="\_blank"}, [local with docker](https://www.youtube.com/watch?v=ZHQ3IwIL590){:target="\_blank"}, [themes](https://jekyllrb.com/docs/themes/){:target="\_blank"}
 
@@ -48,12 +49,14 @@ permalink: /references
 
 [all it books.net]: https://allitbooks.net/
 
-**Online Tools** - [java formatter]{:target="\_blank"}, [java compiler]{:target="\_blank"}, [collabedit]{:target="\_blank"}, [diagrams_net]{:target="\_blank"}
+**Online Tools** - [java formatter]{:target="\_blank"}, [java compiler]{:target="\_blank"}, [collabedit]{:target="\_blank"}, 
+- Draw - [excalidraw]{:target="_blank"}, [diagrams_net]{:target="\_blank"}
 
 [java formatter]: https://www.tutorialspoint.com/online_java_formatter.htm
 [java compiler]: https://www.tutorialspoint.com/compile_java_online.php
 [collabedit]: http://collabedit.com/
 [diagrams_net]: https://app.diagrams.net/
+[excalidraw]: https://excalidraw.com/
 
 **Jekyll (Static Website Generator)** - [Jekyll Website](https://jekyllrb.com/docs){:target="\_blank"}
 
