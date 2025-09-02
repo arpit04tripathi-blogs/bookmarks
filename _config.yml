@@ -1,14 +1,15 @@
 # YAML syntax : https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-# Site settings : {{ site.title }}, {{ site.email }}, and so on.
+# Site settings ============================================================================
+# {{ site.title }}, {{ site.email }}, and so on.
 title: Bookmarks
 description: >- # this means to ignore newlines until "baseurl:"
   Bookmarks
 baseurl: "/bookmarks" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Build settings ===================
+# Build settings ============================================================================
 
 # For gh-pages default supported theme
 # theme: minima
@@ -23,7 +24,7 @@ github_username: arpit04tripathi
 plugins:
   - jekyll-feed
 
-# Exclude from processing.
+# Exclude from processing. ==================================================================
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
 # the internal "default list".
@@ -46,6 +47,7 @@ exclude:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+# Collections ===============================================================================
 collections:
   my_pages:
     output: true
