@@ -9,9 +9,9 @@ layout: page
   - [Quotes](daily/quotes)
   - [Poems](daily/poems)
   - [Short Moral Stories](daily/moral-short-stories)
-- Bookmarks
-  - [UK Bookmarks](country/uk)
-  - [IND Bookmarks](country/india)
+- Country
+  - [UK](country/uk)
+  - [IND](country/india)
 - Career
   - [career Sites](career)
   - [discussion](career/discussion)

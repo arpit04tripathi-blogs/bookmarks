@@ -12,15 +12,12 @@ permalink: /country/uk
 
 # Official
 
-- gov.uk
-  - [gov.uk](https://www.gov.uk/){:target="_blank"}
+- [gov.uk](https://www.gov.uk/){:target="_blank"}
   - [personal tax account](https://www.gov.uk/personal-tax-account){:target="_blank"} - 49
   - [UK cases updates](https://coronavirus.data.gov.uk){:target="_blank"}
 - NHS - [NHS scotland](https://www.scot.nhs.uk/){:target="_blank"}, [NHS](https://www.nhs.uk){:target="_blank"}
-- [Glasgow Council](https://www.glasgow.gov.uk/){:target="_blank"}
-- Factors
-  - [Speirs Gumley](https://www.speirsgumley.com/client-gateway/){:target="_blank"}
-  - [Curb factoring](https://www.curb.scot/factoring/){:target="_blank"}
+- Council Tax - [Glasgow Council](https://www.glasgow.gov.uk/){:target="_blank"}
+- Factors - [Speirs Gumley](https://www.speirsgumley.com/client-gateway/){:target="_blank"} / [Curb factoring](https://www.curb.scot/factoring/){:target="_blank"}
 
 # Bookings
 
