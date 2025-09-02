@@ -10,8 +10,8 @@ layout: page
   - [Poems](daily/poems)
   - [Short Moral Stories](daily/moral-short-stories)
 - Bookmarks
-  - [UK Bookmarks](bm/uk)
-  - [IND Bookmarks](bm/india)
+  - [UK Bookmarks](country/uk)
+  - [IND Bookmarks](country/india)
 - Career
   - [career Sites](career)
   - [discussion](career/discussion)

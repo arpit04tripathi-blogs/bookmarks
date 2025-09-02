@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quotes
+title: Daily Quotes
 permalink: /daily/quotes
 ---
 
