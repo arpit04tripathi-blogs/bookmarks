@@ -17,5 +17,4 @@ layout: page
   - [discussion](career/discussion)
 - [To Do List](todo)
 - Try themes
-  - [try-theme-leaf](/try-theme-leaf)
   - [try-theme-bulma](/try-theme-bulma)
