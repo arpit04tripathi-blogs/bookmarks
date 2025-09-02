@@ -16,7 +16,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # theme: jekyll-theme-leaf
 
 # For custom themes
-remote_theme: https://github.com/supunkavinda/jekyll-theme-leaf
+remote_theme: supunkavinda/jekyll-theme-leaf
 
 # social icons
 github_username: arpit04tripathi
