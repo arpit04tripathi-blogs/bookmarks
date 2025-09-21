@@ -10,8 +10,8 @@ layout: page
   - [Poems](daily/poems)
   - [Short Moral Stories](daily/moral-short-stories)
 - Country
-  - [UK](country/uk)
-  - [IND](country/india)
+  - [United Kingdom](country/uk)
+  - [India](country/india)
 - Career
   - [career Sites](career)
   - [discussion](career/discussion)
