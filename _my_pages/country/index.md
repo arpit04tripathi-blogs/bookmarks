@@ -6,3 +6,4 @@ permalink: /country/
 
 - [India](india)
 - [United Kingdom (UK)] (uk)
+- [Europe] (europe)

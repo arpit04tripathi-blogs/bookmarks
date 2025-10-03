@@ -30,8 +30,3 @@ permalink: /daily/quotes
 > an hourglass and a book of rules.  
 > And each must build, ere time has flown,  
 > a stumbling block or stepping-stone.  
-
-![image](https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6501e89b57d2909f1833ae4a_have-a-good-day-famous-2.jpg)
-![image](https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6501e8bf57d2909f1833b650_have-a-good-day-famous-5.jpg)
-![image](https://miro.medium.com/v2/resize:fit:720/format:webp/0*i245x9wN2JohE298.jpg)
-![image](https://images.assetsdelivery.com/compings_v2/yamnska/yamnska1610/yamnska161000088.jpg)
