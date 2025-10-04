@@ -19,6 +19,11 @@ permalink: /daily/quotes
 - Whatever we do willingly is easy! More you work, the luckier you get.
 - Only those who risk going too far can possibly find out how far they can go.
 
+**TIPS**
+1. Make tasks small and easy.
+2. Create routines to help you.
+3. Start with just 2 mins of effort.
+
 ```
 > Don’t be fooled by the calendar,  
 > There are only as many days in the year as you make use of.  
