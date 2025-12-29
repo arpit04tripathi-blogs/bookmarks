@@ -5,12 +5,12 @@ permalink: /country/uk
 ---
 
 **table of contents**
-1. TOC
+- TOC
 {:toc}
 
 ---
 
-# Official
+## Official
 
 - [gov.uk](https://www.gov.uk/){:target="_blank"}
   - [personal tax account](https://www.gov.uk/personal-tax-account){:target="_blank"} - 49
@@ -19,7 +19,7 @@ permalink: /country/uk
 - Council Tax - [Glasgow Council](https://www.glasgow.gov.uk/){:target="_blank"}
 - Factors - [Speirs Gumley](https://www.speirsgumley.com/client-gateway/){:target="_blank"} / [Curb factoring](https://www.curb.scot/factoring/){:target="_blank"}
 
-# Bookings
+## Bookings
 
 - Train
   - [Trainline](https://www.thetrainline.com/){:target="_blank"}
@@ -34,30 +34,36 @@ permalink: /country/uk
 - [Booking.com](https://www.booking.com/){:target="_blank"}
 - lastminute
 
-# Shopping
+## Shopping
 
 - [Amazon UK](https://www.amazon.co.uk){:target="_blank"}
 - [Tesco](https://www.tesco.com/){:target="_blank"}
 - [Serenata Flowers](https://www.serenataflowers.com){:target="_blank"}
 - Discount
-  - [Complete Savings](https://www.completesavings.co.uk){:target="_blank"}
-  - [Topcashback](https://www.topcashback.co.uk/){:target="_blank"}
-  - [One4all](https://www.one4all.com/retailer.html){:target="_blank"}
-  - [vouchercodes](https://www.vouchercodes.co.uk){:target="_blank"}
-  - [bravovoucher](https://www.bravovoucher.co.uk/){:target="_blank"}
+  - gift cards - [One4all](https://www.one4all.com/retailer.html){:target="_blank"}
+  - cashback - [Complete Savings](https://www.completesavings.co.uk){:target="_blank"}, [Topcashback](https://www.topcashback.co.uk/){:target="_blank"}
+  - coupons - [vouchercodes](https://www.vouchercodes.co.uk){:target="_blank"}, [bravovoucher](https://www.bravovoucher.co.uk/){:target="_blank"}
 - CLOTHING
   - [Holister](https://www.hollisterco.com/shop/uk/sale--1){:target="_blank"} 
   - [Mountain Warehouse](https://www.mountainwarehouse.com/clearance/){:target="_blank"}
   - [Regatta](https://www.regatta.com/sale/){:target="_blank"}
   - [Craghoppers](https://www.craghoppers.com/sale/){:target="_blank"}
   - [Decathlon](https://www.decathlon.co.uk/deals){:target="_blank"}
+  - [M&S - Marks and Spencers](https://www.marksandspencer.com/l/offers/all-unmissable-offers/mens#intid=gnav_offers_core_shop-all-mens-offers){:target="_blank"}
 - [Currys](https://www.currys.co.uk/sale.html){:target="_blank"} (Electronics)
 - Argos - [sale](https://www.argos.co.uk/events/sale){:target="_blank"}, [clearance](https://www.argos.co.uk/events/clearance){:target="_blank"}
 - B&Q - [sale](https://www.diy.com/the-big-sale){:target="_blank"} , [clearance](https://www.diy.com/clearance.cat){:target="_blank"}
 - [B&M](https://www.bmstores.co.uk/products/latest-deals){:target="_blank"}
 - Dunlem - [sale](https://www.dunelm.com/category/sale){:target="_blank"} , [clearance](https://www.dunelm.com/category/clearance){:target="_blank"}
 
-# Renting House
+## Renting House
+
 - [Zoopla](https://www.zoopla.co.uk/){:target="_blank"}
 - [Rightmove](https://www.rightmove.co.uk/){:target="_blank"}
 - [Spareroom](https://www.spareroom.co.uk/flatshare/savesearch.pl){:target="_blank"}
+
+## Life in the UK Test
+
+- [lifeintheuktests.co.uk](https://lifeintheuktests.co.uk/study-guide/){:target="_blank"}
+- [lifeintheuktestweb.co.uk](https://lifeintheuktestweb.co.uk/study-materials/){:target="_blank"}
+- [thelifeinuktest.co.uk](https://www.thelifeinuktest.co.uk/){:target="_blank"}

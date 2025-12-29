@@ -5,8 +5,19 @@
 layout: page
 ---
 
-- Daily - [Quotes](daily/quotes), [Poems](daily/poems), [Short Moral Stories](daily/moral-short-stories)
-- Country - [United Kingdom](country/uk), [India](country/india), [Europe](country/europe)
-- Career - [career Sites](career), [discussion](career/discussion)
+# Home Page
+
+- Daily
+  - [Quotes](daily/quotes)
+  - [Poems](daily/poems)
+  - [Short Moral Stories](daily/moral-short-stories)
+- Country-wise bookmarks
+  - [United Kingdom](country/uk)
+  - [India](country/india)
+  - [Europe](country/europe)
+- Career
+  - [career Sites](career)
+  - [discussion](career/discussion)
 - [To Do List](todo)
-- Try themes - [try-theme-bulma](/try-theme-bulma)
+- Trial themes
+  - [try-theme-bulma](/try-theme-bulma)

@@ -4,11 +4,25 @@ title: ALP
 permalink: /alp
 ---
 
+## ALP Calculations
+
 **Annual Learning Plan**
 
-## ALP 2025
+```text
+1 year = 52 weeks
+1 week = 5 days (-2 days weekend)
+1 day = 1 hour
 
-### Q3 2025 
+total = 260 hours
+80% efficiency = 208 hours
+
+average course duration = 35 hours
+courses/year ~ 6 courses
+= 2 months for a course/topic - book/udemy/youtube
+```
+
+### Q3 2025
+
 - OCT 
   - Design Patterns
   - [vue.js - Udemy course](https://www.udemy.com/course/vuejs-2-the-complete-guide/learn/lecture/21463674#overview){:target="\_blank"}

@@ -4,13 +4,14 @@ title: Europe
 permalink: /country/europe
 ---
 
-<!-- **table of contents**
+**table of contents**
 - TOC
 {:toc}
 
---- -->
+---
 
-# Schengen Visa - Netherlands
+## Schengen Visa - Netherlands
+
 - VFS
   - [Book an appointment](https://visa.vfsglobal.com/gbr/en/nld/book-an-appointment){:target="_blank"}
 - Netherlands Gov
