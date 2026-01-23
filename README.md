@@ -22,10 +22,7 @@ Official documentation for jekyll is [here](https://jekyllrb.com/)
 ### Port already used
 
 ```bash
-# find process_id using the port
-netstat -vanp tcp | grep 9999
-# kill the process based on process_id
-kill -9 <PROCESS_ID>
+scripts/localhost.sh kill
 ```
 
 ## Deploy
