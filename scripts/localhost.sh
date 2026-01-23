@@ -5,6 +5,12 @@ echo [arguments] $@
 echo =========================================================
 
 case $1 in
+  git)
+    echo "running command : git fetch --all -p; git pull; git status;"
+    git fetch --all -p; git pull; git status;
+    git merge origin/main;
+    # git push;
+    ;;
   start)
     echo docker compose up
     docker compose -f ./docker/docker-compose.yml up server -d
@@ -16,7 +22,7 @@ case $1 in
     docker compose -f ./docker/docker-compose.yml down
     ;;
   *)
-    echo use either start or stop
+    echo use either git/start/stop
     ;;
 esac
 
