@@ -5,16 +5,19 @@
 layout: page
 ---
 
+# Home Page
+
 - Daily
   - [Quotes](daily/quotes)
   - [Poems](daily/poems)
   - [Short Moral Stories](daily/moral-short-stories)
-- Bookmarks
-  - [UK Bookmarks](bm/uk)
-  - [IND Bookmarks](bm/india)
+- Country-wise bookmarks
+  - [United Kingdom](country/uk)
+  - [India](country/india)
+  - [Europe](country/europe)
 - Career
   - [career Sites](career)
   - [discussion](career/discussion)
 - [To Do List](todo)
-- [Video Library](video-library)
-- Draw - [excalidraw](https://excalidraw.com/){:target="_blank"}
+- Trial themes
+  - [try-theme-bulma](/try-theme-bulma)

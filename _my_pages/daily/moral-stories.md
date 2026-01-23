@@ -3,14 +3,15 @@ layout: page
 title: Stories
 permalink: /daily/moral-short-stories
 ---
+
 **Table of contents**
 - TOC
 {:toc}
 
 ---
 
-  
-# Duck on a Pond!
+## Duck on a Pond!
+
 Have you ever seen a duck swimming in a pond? It appears so calm - almost tranquil! But do you know that underneath the surface, it is paddling away crazily at a speed of more than 50 miles per hour! That’s how it swims.
 
 You gotta be just like a duck on a pond!
@@ -19,7 +20,7 @@ That’s the mantra of being successful in life - Duck on a Pond!
 
 ---
 
-# A person who thinks too much of the alternatives
+## A person who thinks too much of the alternatives
 
 A professor asked us in a class one day "Can anyone of you tell me why only a few of a class of say 50 students will be able to repeat everything I said and the rest won't? 
 
@@ -35,7 +36,7 @@ but the people I am talking about, are the ones who trust me fully and have devo
 
 ---
 
-# The Abundance Principle
+## The Abundance Principle
 
 Once a man got lost in a desert. The water in his flask had run out two days ago, and he was on his last legs. He knew that if he didn't get some water soon, he would surely die. The man saw a small hut ahead of him. He thought it would be a mirage or maybe a hallucination, but having no other option, he moved toward it. As he got closer, he realized it was quite real. So he dragged his tired body to the door with the last of his strength.
 
@@ -74,6 +75,5 @@ Without knowing what to expect, he made a Leap of Faith.
 Water in this story represents the Good things in Life
 
 Give life some Water to Work with, and it will RETURN far more than you put in........!!
-
 
 ---
