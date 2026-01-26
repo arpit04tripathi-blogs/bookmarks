@@ -24,10 +24,3 @@ Official documentation for jekyll is [here](https://jekyllrb.com/)
 ```bash
 scripts/localhost.sh kill
 ```
-
-## Deploy
-
-1. Delete the _site folder
-2. run the build command to generate _site folder in private repo
-3. copy the contents of _site to public repo
-4. push the changes to public repo
