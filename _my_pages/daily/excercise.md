@@ -3,6 +3,7 @@ layout: page
 title: Excercise
 permalink: /daily/excercise
 ---
+
 **Table of contents**
 - TOC
 {:toc}
@@ -10,12 +11,6 @@ permalink: /daily/excercise
 ---
 
 [darebee.com/workout](https://darebee.com/workout.html){:target="_blank"}
-
-## Yoga
-
-## Strech
-
-## Dumbell
 
 ## Others
 

@@ -14,5 +14,6 @@ layout: page
   - [Short Moral Stories](daily/moral-short-stories)
 - Country - [UK](country/uk) / [India](country/india) / [Europe](country/europe)
 - Career - [career Sites](career), [discussion](career/discussion)
+- [Invest](invest)
 - [To Do List](todo)
 - Trial themes - [try-theme-bulma](/try-theme-bulma)
