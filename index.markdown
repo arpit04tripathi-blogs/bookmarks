@@ -15,5 +15,8 @@ layout: page
 - Country - [UK](country/uk) / [India](country/india) / [Europe](country/europe)
 - Career - [career Sites](career), [discussion](career/discussion)
 - [Invest](invest)
+- [House](house)
+- [Youtube](youtube)
+- [ALP](alp)
 - [To Do List](todo)
 - Trial themes - [try-theme-bulma](/try-theme-bulma)
