@@ -9,7 +9,7 @@ permalink: /career/
 
 ---
 
-# All Career Sites
+## All Career Sites
 
 - [UK Tier 2 Sponsors](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers){:target="\_blank"} - **_`Tier 2 (A (Premium)) Tier 2 General_**
 - [Find A Job - UK Govt](https://findajob.dwp.gov.uk/search?cat=14&cti=full_time&cty=permanent&f=1&loc=86383&pp=50&sf=40000&sb=date&sd=down&q=java){:target="\_blank"}
@@ -19,7 +19,7 @@ permalink: /career/
 - **Linkedin** - [Linkedin UK](https://www.linkedin.com/jobs/search/?f_E=2%2C3%2C4&f_F=it%2Ceng&f_JT=F&f_TPR=r86400&geoId=101165590&keywords=java&location=United%20Kingdom&sortBy=R){:target="\_blank"} - [Linkedin NL](https://www.linkedin.com/jobs/search/?f_E=2%2C3%2C4&f_F=it%2Ceng&f_JT=F&f_TPR=r86400&geoId=102890719&keywords=java&location=Netherlands&sortBy=R){:target="\_blank"} - [Linkedin IL](https://www.linkedin.com/jobs/search/?f_E=2%2C3%2C4&f_F=it%2Ceng&f_JT=F&f_TPR=r86400&geoId=104738515&keywords=java&location=Ireland&sortBy=R){:target="\_blank"} - [Linkedin EU](https://www.linkedin.com/jobs/search/?f_E=2%2C3%2C4&f_F=it%2Ceng&f_JT=F&f_TPR=r86400&geoId=91000000&keywords=java&location=European%20Union&sortBy=R){:target="\_blank"}
 
 
-# Articles
+## Articles
 
 - [Levels.fyi](https://www.levels.fyi/?compare=Google,Facebook,Amazon,JPMorgan%20Chase&track=Software%20Engineer){:target="\_blank"}
 - [amazon-sde1-seattle-oct-2019-offer](https://leetcode.com/discuss/interview-experience/418395/amazon-sde1-seattle-oct-2019-offer){:target="\_blank"}

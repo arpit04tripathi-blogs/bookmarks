@@ -9,15 +9,13 @@ layout: page
 
 - Daily
   - [Quotes](daily/quotes)
+  - [Excercise](daily/excercise)
   - [Poems](daily/poems)
   - [Short Moral Stories](daily/moral-short-stories)
-- Country-wise bookmarks
-  - [United Kingdom](country/uk)
-  - [India](country/india)
-  - [Europe](country/europe)
-- Career
-  - [career Sites](career)
-  - [discussion](career/discussion)
+- Country - [UK](country/uk) / [India](country/india) / [Europe](country/europe)
+- Career - [career Sites](career), [discussion](career/discussion)
+- [Invest](invest)
+- [House](house)
+- [Youtube](youtube)
 - [To Do List](todo)
-- Trial themes
-  - [try-theme-bulma](/try-theme-bulma)
+- Trial themes - [try-theme-bulma](/try-theme-bulma)

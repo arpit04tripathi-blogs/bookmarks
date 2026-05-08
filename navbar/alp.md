@@ -21,6 +21,36 @@ courses/year ~ 6 courses
 = 2 months for a course/topic - book/udemy/youtube
 ```
 
+- Be productive in weekdays, and enjoy on weekends
+- weekday : 4:00am to 9:30pm
+- Plan in 30 mins block
+- Dedicated time for social apps
+
+### IDEAL DAY
+
+| Time  | Activity          |
+|---    |---                |
+| 04:00 | Wake up           |
+| 04:30 |                   |
+| 05:00 |                   |
+| 05:30 |                   |
+| 06:00 |                   |
+| 06:30 |                   |
+| 07:00 |                   |
+| 07:30 |                   |
+| 08:00 |                   |
+| 08:30 |                   |
+| 09:00 | Office Work       |
+| 18:00 |                   |
+| 18:30 |                   |
+| 19:00 |                   |
+| 19:30 |                   |
+| 20:00 |                   |
+| 20:30 |                   |
+| 21:00 | Novel             |
+| 21:30 | Sleep             |
+
+
 ### Q3 2025
 
 - OCT 
@@ -132,3 +162,4 @@ courses/year ~ 6 courses
 - Javascript
   - [Namaste JS](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP){:target="\_blank"}
   - [js - Udemy course](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22628657#overview){:target="\_blank"}
+
