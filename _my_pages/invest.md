@@ -53,3 +53,24 @@ unrealized    = £2,100
 - (1.123)^6 = 2x
 - 12.7% : Realise gains
   - sell half and re-buy same number of shares (-0.4% in fees)
+- ATH - 30% is a Good buy price
+
+## Buckets for Investing
+
+- No single stock > 10% of portfolio
+  - Why ? - Don't recove by Hoping, Recover by surviving the volatility
+- BUCKET 1 (CORE ETF) = 60%
+  - Wealth Engine
+  - VUSA/VWRL - expected 8-10% return
+- BUCKET 2 (GROWTH) = 30%
+  - 5-8 stocks, no single stock more than 7-8%
+  - Ideal to keep 6 stock 5% each
+  - NVDA
+  - AMZN
+  - MSFT/GOOGL
+  - AI/TEch leaders
+- BUCKET 3 (MOONSHOTS) = 10%
+  - Violent Swings
+  - Cap the damage
+  - Add from profits, not hopes
+  - big wins itch scratched
