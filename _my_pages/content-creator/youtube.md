@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Youtube
-permalink: /youtube
+permalink: /content-creator/youtube
 ---
 
 **Table of contents**
@@ -27,3 +27,4 @@ Here are the most common screen resolutions, their pixel counts, and standard as
 - 30 fps : cinematic and natural
 - 60 fps : smooth (gaming or B-roll), slow motions
 
+![thumbnail](https://i.pinimg.com/736x/25/f6/00/25f600e1e67e9655744b307c0d56d69c.jpg)
