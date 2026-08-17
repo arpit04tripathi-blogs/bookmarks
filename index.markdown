@@ -17,7 +17,6 @@ layout: page
 - [Invest](invest)
 - [House](house)
 - [Content Creator](content-creator)
-- [Youtube](youtube)
 - [To Do List](todo)
 - Trial themes - [try-theme-bulma](/try-theme-bulma)
 
