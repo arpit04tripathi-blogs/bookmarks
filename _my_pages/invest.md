@@ -15,14 +15,16 @@ permalink: /invest
 - Keep the Cash - earn interest
 - NEVER LOSE PRINCIPAL AMOUNT
 - Always wait for dip to buy the shares
-  - DIP = 15% from ATH
+  - DIP = 20% from ATH
   - 1st  £100
   - 2nd  £250
   - 3rd  £500
-- If you have cash £3,000
-  - £1,000 : Keep Invested
-  - £1,000 : Rotation (Profit Taking, sell 50% -> buy 50%)
-  - £1,000 : market on Fire, News say Blood on wall street
+
+If you have cash £1,000
+- £800 : Invest £800
+- £200 : Keep Cash
+  - Profit Taking, sell 50% -> buy 50%
+  - Market on Fire, News say Blood on wall street
 
 ## 24% Rule
 
@@ -57,9 +59,34 @@ unrealized    = £2,100
 
 ## Buckets for Investing
 
-- No single stock > 10% of portfolio
-  - Why ? - Don't recove by Hoping, Recover by surviving the volatility
-- BUCKET 1 (CORE ETF) = 60%
+> No single stock > 10% of portfolio  
+> Why ? Don't recover by Hoping, Recover by surviving the volatility
+
+Example amount for £1,000 portfolio
+
+| Bucket      | Weightage | Which | %     | Amount  |
+|---          | ---       | ---   | ---   | ---     |
+| Core        | 50%       |       |       |         |
+|             |           | VWRL  | 20%   | £200    |
+|             |           | VUSA  | 10%   | £100    |
+|             |           | IUKD  | 10%   | £100    |
+|             |           | SGNL  | 10%   | £100    |
+| Growth      | 30%       |       |       |         |
+|             |           | SEMI  | 6%    | £60     |
+|             |           | QWTM  | 4%    | £40     |
+|             |           | LOCK  | 4%    | £40     |
+|             |           | BLKC  | 4%    | £40     |
+|             |           | ECAR  | 4%    | £40     |
+|             |           | AINF  | 4%    | £40     |
+|             |           | DRDR  | 4%    | £40     |
+| Moonshots   | 20%       |       |       |         |
+|             |           | MSTR  | 5%    | £50     |
+|             |           | COHR  | 5%    | £50     |
+|             |           | IREN  | 5%    | £50     |
+|             |           | NBIS  | 5%    | £50     |
+
+
+- BUCKET 1 (CORE ETF) = 50%
   - Wealth Engine
   - VUSA/VWRL - expected 8-10% return
 - BUCKET 2 (GROWTH) = 30%
@@ -69,8 +96,21 @@ unrealized    = £2,100
   - AMZN
   - MSFT/GOOGL
   - AI/TEch leaders
-- BUCKET 3 (MOONSHOTS) = 10%
+- BUCKET 3 (MOONSHOTS) = 30%
   - Violent Swings
   - Cap the damage
   - Add from profits, not hopes
   - big wins itch scratched
+
+## Restructure/Trimmin
+
+- tranche Size = 10% or 20% of shraes quantity
+- Caddence 
+  - Time based : monthly/quarterly
+  - Value based : 15% up from last sell price
+  - Proceeds from sale -> cash or core bucket
+- Rules, Not Predictions
+  - Rebalance every quarter
+  - Take profits
+  - Gradual Trim (tranche x cadence) OR single decision point
+  - Review Weekly - `Do Nothing` review, stop checking daily
