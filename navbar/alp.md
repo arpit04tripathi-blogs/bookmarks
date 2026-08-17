@@ -28,27 +28,26 @@ courses/year ~ 6 courses
 
 ### IDEAL DAY
 
-| Time  | Activity          |
-|---    |---                |
-| 04:00 | Wake up           |
-| 04:30 |                   |
-| 05:00 |                   |
-| 05:30 |                   |
-| 06:00 |                   |
-| 06:30 |                   |
-| 07:00 |                   |
-| 07:30 |                   |
-| 08:00 |                   |
-| 08:30 |                   |
-| 09:00 | Office Work       |
-| 18:00 |                   |
-| 18:30 |                   |
-| 19:00 |                   |
-| 19:30 |                   |
-| 20:00 |                   |
-| 20:30 |                   |
-| 21:00 | Novel             |
-| 21:30 | Sleep             |
+| Time  | Activity      | Notes               |
+|---    |---            | ---                 |
+| 05:00 | Wake up       |                     |
+| 05:30 | Excercise     | Daily 25 OR NTC app |
+| 06:00 | Study (ALP)   | |
+| 06:30 | Study (ALP)   | |
+| 07:00 | Prep Food     | Breakfast + Dinner  |
+| 07:30 | Prep Food     | Breakfast + Dinner  |
+| 08:00 | Get ready     | |
+| 08:30 | Commute       | |
+| 09:00 | Office Work   | |
+| 18:00 | Wrap up       | Mobility Arm-swing  |
+| 18:30 | Prep Food     | Dinner              |
+| 19:00 | Prep Food     | Dinner              |
+| 19:30 |               | |
+| 20:00 |               | |
+| 20:30 |               | |
+| 21:00 | Read          | Novel               |
+| 21:30 | Read          | Novel               |
+| 22:00 | Sleep         | |
 
 
 ### Q3 2025
